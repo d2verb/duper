@@ -1,6 +1,8 @@
 # Duper
 
-**TODO: Add description**
+特定ディレクトリ配下に存在する重複ファイルを検出するツール
+
+see: プログラミングElixir第2版の19章
 
 ## Installation
 
